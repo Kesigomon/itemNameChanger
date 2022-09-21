@@ -1,5 +1,5 @@
-name: itemNameChanger # TODO
+name: itemNameChanger
 version: '1.0.0'
-main: love.chihuyu.renameItem # TODO
-authors: [ Hirosuke ]
+main: love.chihuyu.renameItem
+authors: [ Kesigomon ]
 depend: [CommandAPI]
